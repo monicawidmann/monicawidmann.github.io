@@ -20,6 +20,8 @@ Civil Unrest and Financial Crises: Distributive Politics in Lebanon
 
 Road Allocation in Colonial Iraq
 
+Sovereignty Restructured: The Advent of the Foreign Sovereign Immunities Act
+
 ## Policy Briefs
 
 

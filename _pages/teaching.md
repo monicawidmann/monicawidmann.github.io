@@ -21,8 +21,8 @@ author_profile: true
 
 ### Economics
 
-#### Masters of Applied Economics, Economics 410, Fall 2020
+#### Masters of Quantitative Economics, Economics 410, 2020-21
 
-<sub>- Provided Coding Aid in Python to Guest Lecturers   </sub>  
 <sub>- Held Supplemental TA Sections as Requested   </sub>
+<sub>- Graded Assignments   </sub>
 

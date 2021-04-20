@@ -22,6 +22,8 @@ author_profile: true
 
 ### Economics
 
-#### Master of Quantitative Economics, Economics 410, 2020-21
+#### Master of Quantitative Economics, Econ 410, 2020-21
+
+#### Econ 435: Principles of Big Data Management Systems, Spring 2021
 
 

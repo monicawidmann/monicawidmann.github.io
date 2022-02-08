@@ -8,10 +8,10 @@ author_profile: true
 
 
 
-### Political Science
+### Undergraduate Courses
 
 
-#### International Relations of the Middle East,  Fall 2020 [Evaluations](https://www.dropbox.com/sh/nqdix4fu93ipv75/AAD3M2WF-ZMH42sWPDeeyZina?dl=0)
+#### International Relations of the Middle East,  Fall 2020 [Evaluations](https://www.dropbox.com/sh/nqdix4fu93ipv75/AAD3M2WF-ZMH42sWPDeeyZina?dl=0), Fall 2021 [Evaluations](https://www.dropbox.com/sh/6u03m9kq1oop1ci/AABAKoa3_XfY71wUR4GCmgnMa?dl=0)
 
 
 #### International Political Economy,  Spring 2019 [Evaluations](https://www.dropbox.com/sh/7trxpp8s9jamqqs/AAB-y1nIpeUsAsR_2j3_7uOea?dl=0)
@@ -20,10 +20,13 @@ author_profile: true
 
 <sub>- Undergraduate Course in Game Theory</sub>
 
-### Economics
+### Graduate Courses
 
 #### Master of Quantitative Economics, Econ 410, 2020-21
 
-#### Econ 435: Principles of Big Data Management Systems, Spring 2021
+#### Econ 435: Principles of Big Data Management Systems, Spring 2021 (reader/grader)
+
+#### Econ 409: Exchange Rate Forecasting, Big Data, and Portfolio Design, Winter 2022
+
 
 

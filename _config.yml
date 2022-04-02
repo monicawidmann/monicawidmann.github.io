@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Monica Widmann"
 title_separator          : "-"
 name                     : &name "Monica Widmann"
-description              : &description "PhD Student at UCLA"
+description              : &description "PhD Candidate at UCLA"
 url                      : https://monicawidmann.github.io # the base hostname & protocol for your site e.g. "https://monicawidmann.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               :
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Monica Widmann"
-  avatar           : "mphoto.JPG"
-  bio              : "PhD Student at UCLA"
+  avatar           : "mphoto2.jpg"
+  bio              : "PhD Candidate at UCLA"
   location         :
   employer         :
   pubmed           :

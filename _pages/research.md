@@ -12,6 +12,8 @@ author_profile: true
   
   
   Negotiating Sovereign Debt: The Choice for Incomplete Contracts
+  
+  Clearinghouse for Information Discovery: US Courts Increasing Investors’ Rights and its Market Implications
 
 
 

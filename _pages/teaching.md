@@ -22,11 +22,12 @@ author_profile: true
 
 ### Graduate Courses
 
-#### Master of Quantitative Economics, Econ 410, 2020-21
-
-#### Econ 435: Principles of Big Data Management Systems, Spring 2021 (reader/grader)
 
 #### Econ 409: Exchange Rate Forecasting, Big Data, and Portfolio Design, Winter 2022
+
+#### Econ 410: Economists in Action, 2020-21, Spring 2022
+
+#### Econ 435: Principles of Big Data Management Systems, Spring 2021 (reader/grader)
 
 
 

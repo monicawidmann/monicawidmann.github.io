@@ -7,14 +7,14 @@ author_profile: true
 ---
   
 
-**Sovereign Debt Litigation - United States**   - Web scraped data that includes all litigation cases brought to US courts between 1977 and March 2022. 
+**Sovereign Debt Litigation in US Courts: post-FSIA**  - Web scraped data of litigation cases brought to the Southern District of New York between 1976 and March 2022.
 
+**Sovereign Debt Litigation in UK Courts ** - Web scraped data of litigation cases brought to UK courts between 1979 and March 2022.
 
-**Sovereign Debt Litigation - United Kingdom** - cases brought to the UK from 1978 - March 2022
+**Pre-FSIA US Litigation Cases** - Web scraped data of commercial sovereign litigation cases brought to US courts. Covering the years between 1811 - 1976.
 
-**Sovereign Debt Litigation - United States Pre-1976** 
+**State Department Immunity Requests, 1952-1977** - Data set containing information about immunity requests to the State Department during the Tate Letter regime (1952-1977).
 
-**State Department Immunity Requests, 1952-1977**
 
 
 

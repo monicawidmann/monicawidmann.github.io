@@ -4,26 +4,27 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-  
+ 
+## Dissertation
+
+My dissertation turned book project focuses on the dynamics of sovereign debt politics. What can foreign creditors do to a sovereign country that does not repay its debts? To answer this question, previous research has focused on the role of reputation in influencing the decision of a country to repay their debt and the perception of investors. I argue, however, that US courts are a critical tool in managing sovereign debt markets and in influencing investors’ decision to invest. It examines the role of US courts in (1) expanding private property rights protection overseas and (2) settling disputes between creditors and debtor states, which in turn may impact the economy of the debtor state. It explores the change in US foreign policy from one of recognizing absolute sovereignty to that of restrictive immunity, why US courts gained the power from the State Department to adjudicate over disputes involving sovereign states, the factors that influence judicial decision-making, and its unintended consequences on the economy. To examine the development and role of US courts in disputes involving sovereign states, I collected and utilized three new data sets covering a time frame from 1811 until March 2022 that provide detailed information on sovereign litigation cases. 
+
   
 ## Working Papers
   
-  Violating Impartiality: The United States Judiciary Governing the Market
+Violating Impartiality: The United States Judiciary Governing the Market
   
+Sovereignty Restructured: The Foreign Policy of Absolute Sovereignty
   
-  Negotiating Sovereign Debt: The Choice for Incomplete Contracts
+Negotiating Sovereign Debt: The Choice for Incomplete Contracts
   
-  Clearinghouse for Information Discovery: US Courts Increasing Investors’ Rights and its Market Implications
-
-
-
 ## In Progress
+
+Clearinghouse for Information Discovery: US Courts Increasing Investors’ Rights and its Market Implications
 
 Civil Unrest and Financial Crises: Distributive Politics in Lebanon
 
-Road Allocation in Colonial Iraq
-
-Sovereignty Restructured: The Advent of the Foreign Sovereign Immunities Act
+Road Allocation in Colonial Iraq (Data Collection in progress)
 
 ## Policy Briefs
 

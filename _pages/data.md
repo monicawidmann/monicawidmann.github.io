@@ -9,7 +9,7 @@ author_profile: true
 
 **Sovereign Debt Litigation in US Courts: post-FSIA**  - Web scraped data of litigation cases brought to the Southern District of New York between 1976 and March 2022.
 
-**Sovereign Debt Litigation in UK Courts ** - Web scraped data of litigation cases brought to UK courts between 1979 and March 2022.
+**Sovereign Debt Litigation in UK Courts** - Web scraped data of litigation cases brought to UK courts between 1979 and March 2022.
 
 **Pre-FSIA US Litigation Cases** - Web scraped data of commercial sovereign litigation cases brought to US courts. Covering the years between 1811 - 1976.
 

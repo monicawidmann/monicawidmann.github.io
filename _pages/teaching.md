@@ -30,6 +30,7 @@ author_profile: true
 
 #### Econ 435: Principles of Big Data Management Systems, Spring 2021 (reader/grader)
 <sub>- Course covered: SQL, MongoDB, Python, Amazon Web Services, DynamoDB, Apache Hadoop</sub>
+
 <sub>- Responsibilities: Grading and Office Hours</sub>
 
 ### Additional Work

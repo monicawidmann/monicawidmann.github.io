@@ -26,7 +26,7 @@ author_profile: true
 #### Econ 409: Exchange Rate Forecasting, Big Data, and Portfolio Design, Winter 2022
 <sub>- Taught with Python</sub>
 
-#### Econ 410: Economists in Action, 2020-21, Spring 2022
+#### Econ 410: Economists in Action, Fall 2020 - Spring 2021, Spring 2022, Fall 2022 - Spring 2023
 
 #### Econ 435: Principles of Big Data Management Systems, Spring 2021 (reader/grader)
 <sub>- Course covered: SQL, MongoDB, Python, Amazon Web Services, DynamoDB, Apache Hadoop</sub>

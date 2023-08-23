@@ -13,6 +13,8 @@ My dissertation turned book project focuses on the dynamics of sovereign debt po
 ## Working Papers
   
 Violating Impartiality: The United States Judiciary Governing the Market
+
+Information Clearinghouse: Market Implications of US Judicial Decisions
   
 Sovereignty Restructured: The Foreign Policy of Absolute Sovereignty
   
@@ -20,11 +22,10 @@ Negotiating Sovereign Debt: The Choice for Incomplete Contracts
   
 ## In Progress
 
-Clearinghouse for Information Discovery: US Courts Increasing Investors’ Rights and its Market Implications
+Creditors in the Crosshairs: The Art of Selective Defaults Across Regimes
 
 Civil Unrest and Financial Crises: Distributive Politics in Lebanon
 
-Road Allocation in Colonial Iraq (Data Collection in progress)
 
 ## Policy Briefs
 

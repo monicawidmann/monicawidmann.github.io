@@ -13,6 +13,8 @@ author_profile: true
 
 **State Department Immunity Requests, 1952-1977** - Data set containing information about immunity requests to the State Department during the Tate Letter regime (1952-1977).
 
+**Green Bonds** - Data on Green Bonds issued by Developing and Developed Countries.
+
 
 ## In Progress
 
@@ -20,6 +22,13 @@ author_profile: true
 **Sovereign Debt Litigation in UK Courts** - Web scraped data of litigation cases brought to UK courts between 1979 and March 2022.
 
 **Sovereign Bond Prospectus** -  Data covering key items of bond prospectuses such as governing law and pari passu clauses.
+
+
+**All data will be available upon publishing. **
+
+
+
+
 
 
 

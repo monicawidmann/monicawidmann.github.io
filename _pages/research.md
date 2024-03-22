@@ -27,7 +27,7 @@ Negotiating Sovereign Debt: The Choice for Incomplete Contracts
 
 Ballots, Bonds, and Green Backs: How Elections and Regime Types Shape Eco-Financing
 
-Ballots and Bonds: The Electrifying Facade of Greenwashing in Provinces and Municipalities During Election Seasons'' (with Soohyun Cho and Simone Dietrich)
+Ballots and Bonds: The Electrifying Facade of Greenwashing in Provinces and Municipalities During Election Seasons' (with Soohyun Cho and Simone Dietrich)
 
   
 ## In Progress

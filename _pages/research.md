@@ -25,12 +25,11 @@ Sovereignty Restructured: The Foreign Policy of Absolute Sovereignty
   
 Negotiating Sovereign Debt: The Choice for Incomplete Contracts
 
-Ballots, Bonds, and Green Backs: How Elections and Regime Types Shape Eco-Financing
-
-Ballots and Bonds: The Electrifying Facade of Greenwashing in Provinces and Municipalities During Election Seasons (with Soohyun Cho and Simone Dietrich)
 
   
 ## In Progress
+
+Ballots, Bonds, and Green Backs: How Elections and Regime Types Shape Eco-Financing
 
 Creditors in the Crosshairs: The Art of Selective Defaults Across Regimes
 

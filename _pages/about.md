@@ -13,7 +13,7 @@ Welcome! For the 2023-2024 academic year, I am a Postdoctoral Research Fellow at
 Currently, I am working on a number of papers covering green finance. I am also working on my book project, an extension of my dissertation titled *Domesticating the International: The Uneven Enforcement of Investors’ Preferences and its Unintended Consequences.* It examines when US courts choose to extend the reach of US private property rights via the application of the Foreign Sovereign Immunities Act and the economic consequences for the debtor state, if any.  
 
 
-You may contact me at: mwidmann@econ.ucla.edu
+You may contact me at: mwidmann@ucla.edu
 
 
 

@@ -7,7 +7,7 @@ author_profile: true
 
 My research broadly examines (1) how transnational commercial actors utilize national courts to hold sovereign foreign states accountable for breaking commercial agreements, as well as the domestic consequences of these judicial rulings, and (2) the domestic politics underlying states' strategic choices of borrowing and default.
  
-## Dissertation
+## Book Project
 
 My dissertation turned book project focuses on the dynamics of sovereign debt politics and the development and usage of the Foreign Sovereign Immunities Act (FSIA). What actions can creditors take against a sovereign country that fails to repay its debts? Can legislation passed in one country to regulate international transactions have economic consequences in other countries? The chapters in this dissertation attempt to answer these questions. Previous research has focused on the role of reputation in influencing the decision of a country to repay their debt and the perception of investors. I argue, however, that US courts are a critical tool in managing sovereign debt markets and in influencing investors’ decision to invest. 
 

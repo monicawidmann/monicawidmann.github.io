@@ -8,18 +8,18 @@ author_profile: true
 
 ## Technical University of Munich
 
-### Undergraduate Courses
+### *Undergraduate Courses*
 
 ####  International Political Economy of the Middle East, Fall 2024
 
-### Graduate Courses
+### *Graduate Courses*
 
 ####  International Political Economy, Fall 2024 (MA)
 
 
 ## As Teaching Assistant at UCLA
 
-### Undergraduate Courses
+### *Undergraduate Courses*
 
 
 #### International Relations of the Middle East,  Fall 2020 [Evaluations](https://www.dropbox.com/sh/nqdix4fu93ipv75/AAD3M2WF-ZMH42sWPDeeyZina?dl=0), Fall 2021 [Evaluations](https://www.dropbox.com/sh/6u03m9kq1oop1ci/AABAKoa3_XfY71wUR4GCmgnMa?dl=0)
@@ -31,7 +31,7 @@ author_profile: true
 
 <sub>- Undergraduate Course in Game Theory</sub>
 
-### Graduate Courses
+### *Graduate Courses*
 
 
 #### Econ 409: Exchange Rate Forecasting, Big Data, and Portfolio Design, Winter 2022

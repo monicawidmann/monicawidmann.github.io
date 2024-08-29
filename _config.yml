@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Monica Widmann"
 title_separator          : "-"
 name                     : &name "Monica Widmann"
-description              : &description "Postdoctoral Fellow at Princeton"
+description              : &description "Postdoctoral Fellow at TUM"
 url                      : https://monicawidmann.github.io # the base hostname & protocol for your site e.g. "https://monicawidmann.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               :

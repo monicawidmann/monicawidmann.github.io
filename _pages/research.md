@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research broadly examines (1) how transnational commercial actors utilize national courts to hold sovereign foreign states accountable for breaking commercial agreements, as well as the domestic consequences of these judicial rulings, and (2) the domestic politics underlying states' strategic choices of borrowing and default.
+My research broadly examines (1) how transnational commercial actors utilize national courts to hold sovereign states accountable for breaking commercial agreements, as well as the domestic consequences of these judicial rulings, and (2) the domestic politics underlying states' strategic choices of borrowing and default.
  
 ## Book Project
 

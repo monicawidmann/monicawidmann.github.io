@@ -10,11 +10,11 @@ author_profile: true
 
 ### *Undergraduate Courses*
 
-####  International Political Economy of the Middle East, Fall 2024
+####  Political Economy of the Middle East, Fall 2024
 
 ### *Graduate Courses*
 
-####  International Political Economy, Fall 2024 (MA)
+####  International Political Economy of Finance, Fall 2024 (MA)
 
 
 ## As Teaching Assistant at UCLA

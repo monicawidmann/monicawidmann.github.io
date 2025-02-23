@@ -11,14 +11,14 @@ author_profile: true
 ### *Undergraduate Courses*
 
 ####  Political Economy of the Middle East, Fall 2024 [Evaluations](https://www.dropbox.com/scl/fi/goflj85jy3sd3wp0njxrx/WS_24_25-SOT82112-_Political_Economy_of_the_Middle_East.pdf?rlkey=ycaj3rle9u9lwp7rx5jjn75ou&st=8t1y62p9&dl=0)
+
 ### *Graduate Courses*
 
 ####  International Political Economy of Finance, Fall 2024 (MA)
 
-
 ### *Advising*
 
-<sub>- BA and MA Theses </sub>
+#### BA and MA Theses 
 
 ## As Teaching Assistant at UCLA
 

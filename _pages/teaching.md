@@ -16,6 +16,10 @@ author_profile: true
 ####  International Political Economy of Finance, Fall 2024 (MA)
 
 
+### *Advising*
+
+<sub>- BA and MA Theses </sub>
+
 ## As Teaching Assistant at UCLA
 
 ### *Undergraduate Courses*

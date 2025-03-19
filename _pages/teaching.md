@@ -8,11 +8,9 @@ author_profile: true
 
 ## Technical University of Munich
 
-### *Undergraduate Courses*
+#### International Institutions, Fall 2025 (Undergraduate)
 
-####  Political Economy of the Middle East, Fall 2024 [Evaluations](https://www.dropbox.com/scl/fi/goflj85jy3sd3wp0njxrx/WS_24_25-SOT82112-_Political_Economy_of_the_Middle_East.pdf?rlkey=ycaj3rle9u9lwp7rx5jjn75ou&st=8t1y62p9&dl=0)
-
-### *Graduate Courses*
+####  Political Economy of the Middle East, Fall 2024 [Evaluations](https://www.dropbox.com/scl/fi/goflj85jy3sd3wp0njxrx/WS_24_25-SOT82112-_Political_Economy_of_the_Middle_East.pdf?rlkey=ycaj3rle9u9lwp7rx5jjn75ou&st=8t1y62p9&dl=0) (Undergraduate)
 
 ####  International Political Economy of Finance, Fall 2024 (MA)
 
@@ -20,29 +18,24 @@ author_profile: true
 
 #### BA and MA Theses 
 
+
 ## As Teaching Assistant at UCLA
 
-### *Undergraduate Courses*
+#### International Relations of the Middle East,  Fall 2020 [Evaluations](https://www.dropbox.com/sh/nqdix4fu93ipv75/AAD3M2WF-ZMH42sWPDeeyZina?dl=0), Fall 2021 [Evaluations](https://www.dropbox.com/sh/6u03m9kq1oop1ci/AABAKoa3_XfY71wUR4GCmgnMa?dl=0) (Undergraduate)
 
+#### International Political Economy,  Spring 2019 [Evaluations](https://www.dropbox.com/sh/7trxpp8s9jamqqs/AAB-y1nIpeUsAsR_2j3_7uOea?dl=0) (Undergraduate)
 
-#### International Relations of the Middle East,  Fall 2020 [Evaluations](https://www.dropbox.com/sh/nqdix4fu93ipv75/AAD3M2WF-ZMH42sWPDeeyZina?dl=0), Fall 2021 [Evaluations](https://www.dropbox.com/sh/6u03m9kq1oop1ci/AABAKoa3_XfY71wUR4GCmgnMa?dl=0)
-
-
-#### International Political Economy,  Spring 2019 [Evaluations](https://www.dropbox.com/sh/7trxpp8s9jamqqs/AAB-y1nIpeUsAsR_2j3_7uOea?dl=0)
-
-#### Politics and Strategy,  Fall 2018 [Evaluations](https://www.dropbox.com/sh/e96d1fpjwh4boct/AAAQk9sZOaQcl7wnWu0KSaF6a?dl=0)
+#### Politics and Strategy,  Fall 2018 [Evaluations](https://www.dropbox.com/sh/e96d1fpjwh4boct/AAAQk9sZOaQcl7wnWu0KSaF6a?dl=0) (Undergraduate)
 
 <sub>- Undergraduate Course in Game Theory</sub>
 
-### *Graduate Courses*
 
+#### Econ 409: Exchange Rate Forecasting, Big Data, and Portfolio Design, Winter 2022 (MA)
+<sub>- Taught with Python</sub> 
 
-#### Econ 409: Exchange Rate Forecasting, Big Data, and Portfolio Design, Winter 2022
-<sub>- Taught with Python</sub>
+#### Econ 410: Economists in Action, Fall 2020 - Spring 2021, Spring 2022, Fall 2022 - Spring 2023 (MA)
 
-#### Econ 410: Economists in Action, Fall 2020 - Spring 2021, Spring 2022, Fall 2022 - Spring 2023
-
-#### Econ 435: Principles of Big Data Management Systems, Spring 2021 (reader/grader)
+#### Econ 435: Principles of Big Data Management Systems, Spring 2021 (reader/grader) (MA)
 <sub>- Course covered: SQL, MongoDB, Python, Amazon Web Services, DynamoDB, Apache Hadoop</sub>
 
 <sub>- Responsibilities: Grading and Office Hours</sub>

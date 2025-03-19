@@ -8,7 +8,7 @@ author_profile: true
 
 ## Technical University of Munich
 
-#### International Institutions, Fall 2025 (Undergraduate)
+#### International Institutions, Spring 2025 (Undergraduate)
 
 ####  Political Economy of the Middle East, Fall 2024 [Evaluations](https://www.dropbox.com/scl/fi/goflj85jy3sd3wp0njxrx/WS_24_25-SOT82112-_Political_Economy_of_the_Middle_East.pdf?rlkey=ycaj3rle9u9lwp7rx5jjn75ou&st=8t1y62p9&dl=0) (Undergraduate)
 

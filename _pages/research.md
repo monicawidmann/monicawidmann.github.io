@@ -18,7 +18,7 @@ Overall, this project explores the change in US foreign policy from one of recog
 
 ## Under Review 
 
-Democracy, Debt, and the Bench: Political Ideology in Sovereign Immunity Cases - Revise \& Resubmit
+Democracy, Debt, and the Bench: Political Ideology in Sovereign Immunity Cases - Revise & Resubmit
 
   
 ## Working Papers

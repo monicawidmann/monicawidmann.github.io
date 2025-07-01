@@ -18,7 +18,7 @@ Overall, this project explores the change in US foreign policy from one of recog
 
 ## Under Review 
 
-Violating Impartiality: The United States Judiciary Governing the Market
+Democracy, Debt, and the Bench: Political Ideology in Sovereign Immunity Cases - Revise \& Resubmit
 
   
 ## Working Papers

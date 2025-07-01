@@ -6,6 +6,14 @@ author_profile: true
 
 ---
 
+## Seton Hall University
+
+
+####  Research Methods, Fall 2025 (Undergraduate)
+
+####  Politics of the Middle East, Fall 2025 (Undergraduate)
+
+
 ## Technical University of Munich
 
 

@@ -14,7 +14,7 @@ My research examines (1) how transnational commercial actors utilize national co
 
 Currently, I am working on my book project, an extension of my dissertation titled *Domesticating the International: The Uneven Enforcement of Investors' Preferences and its Unintended Consequences*. It examines when US courts choose to extend the reach of US private property rights via the application of the Foreign Sovereign Immunities Act and the economic consequences, if any, for the debtor state. 
 
-Beyond this project on sovereign debt, I also study financial issues in the Middle East. In another line of research with co-authors, I am developing papers on green finance, examining how, why, and when governments, non-governmental entities, and global institutions finance climate change mitigation efforts.
+Beyond my work on sovereign debt, I also study financial issues in the Middle East. In a separate line of research with co-authors, I am developing papers on green finance that examine how, why, and when governments, non-governmental organizations, and global institutions finance climate change mitigation efforts.
 
 You may contact me at: mwidmann@ucla.edu
 

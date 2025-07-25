@@ -16,7 +16,7 @@ Currently, I am working on my book project, an extension of my dissertation titl
 
 Beyond my work on sovereign debt, I also study financial issues in the Middle East. In a separate line of research with co-authors, I am developing papers on green finance that examine how, why, and when governments, non-governmental organizations, and global institutions finance climate change mitigation efforts.
 
-You may contact me at: mwidmann@ucla.edu
+You may contact me at: monica.widmann@shu.edu
 
 
 

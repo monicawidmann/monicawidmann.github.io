@@ -10,9 +10,10 @@ author_profile: true
 
 
 ####  Research Methods, Fall 2025 (Undergraduate)
+##### [Fall 2025 Syllabus](https://www.dropbox.com/scl/fi/qd4xl61l8fucwl0c19bth/Syllabus-Fall-2025.pdf?rlkey=37wtt7eu84df8htqqn72fda9x&dl=0)
 
-####  Politics of the Middle East, Fall 2025 (Undergraduate)
-##### [Draft Syllabus](https://www.dropbox.com/scl/fi/2mz1wnulfswn0ozzidydg/Draft.pdf?rlkey=7o4balqrbakgh9jq3qc4gm1bs&dl=0)
+####  Middle East Politics, Fall 2025 (Undergraduate)
+##### [Fall 2025 Syllabus](https://www.dropbox.com/scl/fi/2mz1wnulfswn0ozzidydg/Fall2025.pdf?rlkey=7o4balqrbakgh9jq3qc4gm1bs&dl=0)
 
 ## Technical University of Munich
 

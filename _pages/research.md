@@ -23,11 +23,13 @@ Democracy, Debt, and the Bench: Political Ideology in Sovereign Immunity Cases -
   
 ## Working Papers
   
-
+  
 Information Clearinghouse: Market Implications of US Judicial Decisions
 
 Default Dynamics: The Influence of Regime Type on Default Choice
-  
+
+Firms as Catalysts: How Firms Drive the Diffusion of Green Bond Markets (with Soohyun Cho)
+
 
 ## In Progress
 

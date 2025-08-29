@@ -8,6 +8,11 @@ author_profile: true
 
 ## Seton Hall University
 
+####  Principles of Economics I, Spring 2026 (Undergraduate)
+
+
+####  Comparative Politics, Spring 2026 (Undergraduate)
+
 
 ####  Research Methods, Fall 2025 (Undergraduate)
 ##### [Fall 2025 Syllabus](https://www.dropbox.com/scl/fi/qd4xl61l8fucwl0c19bth/Syllabus-Fall-2025.pdf?rlkey=37wtt7eu84df8htqqn72fda9x&dl=0)

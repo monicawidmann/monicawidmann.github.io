@@ -10,6 +10,7 @@ author_profile: true
 
 
 ####  Political Economy, Spring 2026 (Undergraduate)
+##### [Spring 2026 Syllabus](https://www.dropbox.com/scl/fi/4kva67lgu6rounlxgilsu/Political_Economy_Syllabus.pdf?rlkey=brixpqlldadhrpwfnaj76vwtr&dl=0)
 
 ####  Research Methods, Fall 2025, Spring 2026 (Undergraduate)
 ##### [Fall 2025 Syllabus](https://www.dropbox.com/scl/fi/qd4xl61l8fucwl0c19bth/Syllabus-Fall-2025.pdf?rlkey=37wtt7eu84df8htqqn72fda9x&dl=0)

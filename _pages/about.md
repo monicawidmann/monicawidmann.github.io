@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am an Assistant Professor at Seton Hall University with a joint appointment in the Department of Political Science and in the Department of Economics. I am also a a faculty affiliate of the Princeton Sovereign Finance Lab. Previously, I was a Postdoctoral Research Fellow at Princeton University's Niehaus Center for Globalization and Governance and a Postdoctoral Fellow at the Technical University of Munich. I earned my PhD in Political Science from UCLA. My research interests are in International and Comparative Political Economy. My methodological interests include the application and development of Causal Inference, Machine Learning, Bayesian techniques, NLP, and Time Series. 
+Welcome! I am an Assistant Professor at Seton Hall University with a joint appointment in the Department of Political Science and in the Department of Economics. I am also a faculty affiliate of the Princeton Sovereign Finance Lab. Previously, I was a Postdoctoral Research Fellow at Princeton University's Niehaus Center for Globalization and Governance and a Postdoctoral Fellow at the Technical University of Munich. I earned my PhD in Political Science from UCLA. My research interests are in International and Comparative Political Economy. My methodological interests include the application and development of Causal Inference, Machine Learning, Bayesian techniques, NLP, and Time Series. 
 
 My research examines (1) how transnational commercial actors utilize national courts to hold sovereign states accountable for breaking commercial agreements, as well as the domestic consequences of these judicial rulings, and (2) the politics underlying states' strategic choices of borrowing and default.
 

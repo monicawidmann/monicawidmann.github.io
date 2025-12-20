@@ -15,7 +15,7 @@ author_profile: true
 ##### [Spring 2026 Syllabus](https://www.dropbox.com/scl/fi/4kva67lgu6rounlxgilsu/Political_Economy_Syllabus.pdf?rlkey=brixpqlldadhrpwfnaj76vwtr&dl=0)
 
 ####  Research Methods, Fall 2025, Spring 2026 (Undergraduate)
-##### [Fall 2025 Syllabus](https://www.dropbox.com/scl/fi/qd4xl61l8fucwl0c19bth/Syllabus-Fall-2025.pdf?rlkey=37wtt7eu84df8htqqn72fda9x&dl=0)
+##### [Spring 2026 Syllabus](https://www.dropbox.com/scl/fi/09wg02zkgwx80idsrmz78/Syllabus-Spring-2026.pdf?rlkey=aitwos8w6rpwvki1bs1gi4ol3&st=jlf9ys5q&dl=0)
 
 ####  Middle East Politics, Fall 2025, Fall 2026 (Undergraduate)
 ##### [Fall 2025 Syllabus](https://www.dropbox.com/scl/fi/2mz1wnulfswn0ozzidydg/Fall2025.pdf?rlkey=7o4balqrbakgh9jq3qc4gm1bs&dl=0)

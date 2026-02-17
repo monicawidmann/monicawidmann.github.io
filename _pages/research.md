@@ -28,7 +28,7 @@ Information Clearinghouse: Market Implications of US Judicial Decisions
 
 Default Dynamics: The Influence of Regime Type on Default Choice
 
-Bottom-Up Green Finance: Corporate Bonds as Catalysts for Sovereign Climate Action (with Soohyun Cho)
+When Firms Lead States: Bank-Mediated Market Construction and Sovereign Green Bond Adoption (with Soohyun Cho)
 
 
 ## In Progress

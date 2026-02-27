@@ -14,7 +14,7 @@ Substantively, my research examines how commercial actors---such as investors, f
 
 Currently, I am working on my book project, an extension of my dissertation titled *Domesticating the International: The Uneven Enforcement of Investors' Preferences and its Unintended Consequences*. It examines when US courts choose to extend the reach of US private property rights via the application of the Foreign Sovereign Immunities Act and the economic consequences, if any, for the debtor state. 
 
-Beyond my work on sovereign debt, I also study financial issues in the Middle East. In a separate line of research with co-authors, I am developing papers on green finance that examine how, why, and when governments, non-governmental organizations, and global institutions finance climate change mitigation efforts.
+Beyond my work on sovereign debt, I also study financial issues in the Middle East. In a separate line of research, I am developing papers on green finance that examine how, why, and when governments, non-governmental organizations, and global institutions finance climate change mitigation efforts.
 
 You may contact me at: monica.widmann@shu.edu
 

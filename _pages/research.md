@@ -20,11 +20,10 @@ Overall, this project explores the change in US foreign policy from one of recog
 
 Democracy, Debt, and the Bench: Political Ideology in Sovereign Immunity Cases - Revise & Resubmit
 
+Information Clearinghouse: Market Implications of US Judicial Decisions
+
   
 ## Working Papers
-  
-  
-Information Clearinghouse: Market Implications of US Judicial Decisions
 
 Default Dynamics: The Influence of Regime Type on Default Choice
 

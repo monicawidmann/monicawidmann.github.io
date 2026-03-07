@@ -32,11 +32,14 @@ When Firms Lead States: Financial Intermediaries and the Politics of Sovereign G
 
 ## In Progress
 
-Ballots, Bonds, and Green Backs: How Elections and Regime Types Shape Eco-Financing
+Borrowed Credibility: Fiscal Stress, Democracy, and Signaling in Sovereign Green Bond Markets
+
+Politics of the Green Label: Partisan Polarization and Municipal Climate Finance
 
 Negotiating Sovereign Debt: The Choice for Incomplete Contracts
 
 Civil Unrest and Financial Crises: Distributive Politics in Lebanon
+
 
 
 ## Policy Briefs

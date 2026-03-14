@@ -22,12 +22,12 @@ Democracy, Debt, and the Bench: Political Ideology in Sovereign Immunity Cases -
 
 Information Clearinghouse: Market Implications of US Judicial Decisions
 
-  
+When Firms Lead States: Financial Intermediaries and the Politics of Sovereign Green Bond Adoption 
+
+
 ## Working Papers
 
 Default Dynamics: The Influence of Regime Type on Default Choice
-
-When Firms Lead States: Financial Intermediaries and the Politics of Sovereign Green Bond Adoption 
 
 
 ## In Progress

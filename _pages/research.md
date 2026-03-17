@@ -15,10 +15,13 @@ To understand why US courts have the power to adjudicate disputes between invest
  
 Overall, this project explores the change in US foreign policy from one of recognizing absolute sovereignty to that of restrictive sovereignty, why US courts gained the power from the State Department to adjudicate over disputes involving sovereign states, the factors that influence judicial decision-making, and its unintended consequences on the economy. To examine the development and role of US courts in disputes involving sovereign states, I collected and utilized three new data sets covering a time frame from 1811 until March 2022 that provide detailed information on sovereign litigation cases. 
 
+#Publications
+
+Democracy, Debt, and the Bench: Political Ideology in Sovereign Immunity Cases - Accepted at *International Organization*
+
 
 ## Under Review 
 
-Democracy, Debt, and the Bench: Political Ideology in Sovereign Immunity Cases - Revise & Resubmit
 
 Information Clearinghouse: Market Implications of US Judicial Decisions
 
@@ -29,10 +32,9 @@ When Firms Lead States: Financial Intermediaries and the Politics of Sovereign G
 
 Default Dynamics: The Influence of Regime Type on Default Choice
 
+Borrowed Credibility: Fiscal Stress, Democracy, and Signaling in Sovereign Green Bond Markets
 
 ## In Progress
-
-Borrowed Credibility: Fiscal Stress, Democracy, and Signaling in Sovereign Green Bond Markets
 
 Politics of the Green Label: Partisan Polarization and Municipal Climate Finance
 

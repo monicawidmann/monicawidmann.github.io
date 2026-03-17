@@ -15,7 +15,7 @@ To understand why US courts have the power to adjudicate disputes between invest
  
 Overall, this project explores the change in US foreign policy from one of recognizing absolute sovereignty to that of restrictive sovereignty, why US courts gained the power from the State Department to adjudicate over disputes involving sovereign states, the factors that influence judicial decision-making, and its unintended consequences on the economy. To examine the development and role of US courts in disputes involving sovereign states, I collected and utilized three new data sets covering a time frame from 1811 until March 2022 that provide detailed information on sovereign litigation cases. 
 
-#Publications
+## Publications
 
 Democracy, Debt, and the Bench: Political Ideology in Sovereign Immunity Cases - Accepted at *International Organization*
 

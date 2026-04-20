@@ -17,7 +17,7 @@ The book traces the shift in US foreign policy from absolute to restrictive sove
 
 ## Publications
 
-Democracy, Debt, and the Bench: Political Ideology in Sovereign Immunity Cases - Accepted at *International Organization*
+Democracy, Debt, and the Bench: Political Ideology in Sovereign Immunity Cases - Forthcoming at *International Organization*
 
 
 ## Under Review 
@@ -25,7 +25,7 @@ Democracy, Debt, and the Bench: Political Ideology in Sovereign Immunity Cases -
 
 Information Clearinghouse: Market Implications of US Judicial Decisions
 
-When Firms Lead States: Financial Intermediaries and the Politics of Sovereign Green Bond Adoption 
+When Firms Lead States: Financial Intermediaries and the Politics of Sovereign Green Bond Adoption - *Revise & Resubmit*
 
 
 ## Working Papers

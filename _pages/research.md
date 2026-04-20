@@ -25,7 +25,7 @@ Democracy, Debt, and the Bench: Political Ideology in Sovereign Immunity Cases -
 
 Information Clearinghouse: Market Implications of US Judicial Decisions
 
-When Firms Lead States: Financial Intermediaries and the Politics of Sovereign Green Bond Adoption - *Revise & Resubmit*
+When Firms Lead States: Financial Intermediaries and the Politics of Sovereign Green Bond Issuance - *Revise & Resubmit*
 
 
 ## Working Papers

@@ -21,7 +21,7 @@ author_profile: true
 #### **Fall 2025**  | [Evaluations](https://www.dropbox.com/scl/fi/efxjaa2uifusrfyi82cz2/ResearchMethods_Fall2025.pdf?rlkey=w5ns6p4u7w7n45lui0dpicdx6&dl=0)
 
 ### Comparative Politics (Undergraduate)
-#### **Fall 2026** | [Syllabus](https://www.dropbox.com/scl/fo/l28za5jcs3qw6k8a31fht/ANS1HPLBLl3Otiti4Gx19Po?rlkey=672c6eqhkxjwaipdmgrb85vs9&st=37zye1ss&dl=0)  
+#### **Fall 2026** | [Syllabus](https://www.dropbox.com/scl/fi/wmz0u99frv7z7xf497pgu/Comparative_Politics_Fall_2026.pdf?rlkey=bk83aw3i8re9sqrx62qa6mype&st=lm7brvxq&dl=0)  
 
 
 

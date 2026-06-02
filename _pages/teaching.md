@@ -14,7 +14,7 @@ author_profile: true
 #### **Fall 2025** | [Evaluations](https://www.dropbox.com/scl/fi/1g24uokodh0sgl6u2nmjh/MiddleEast_Fall2026.pdf?rlkey=x67ee977f7d6stdxu6ex002tl&st=uqh1frsm&dl=0) | [Syllabus](https://www.dropbox.com/scl/fi/2mz1wnulfswn0ozzidydg/Fall2025.pdf?rlkey=7o4balqrbakgh9jq3qc4gm1bs&dl=0) 
 
 ### Political Economy (Undergraduate)
-#### **Spring 2026** | | [Evaluations](https://www.dropbox.com/scl/fi/mcp4idat03z5ls20l9lxs/Political-Economy-Spring-2026.pdf?rlkey=6kl3vzf9oq9suxe6fcjakf4yh&st=qqdx9tie&dl=0) [Syllabus](https://www.dropbox.com/scl/fi/4kva67lgu6rounlxgilsu/Political_Economy_Syllabus.pdf?rlkey=brixpqlldadhrpwfnaj76vwtr&dl=0)
+#### **Spring 2026** | [Evaluations](https://www.dropbox.com/scl/fi/mcp4idat03z5ls20l9lxs/Political-Economy-Spring-2026.pdf?rlkey=6kl3vzf9oq9suxe6fcjakf4yh&st=qqdx9tie&dl=0) | [Syllabus](https://www.dropbox.com/scl/fi/4kva67lgu6rounlxgilsu/Political_Economy_Syllabus.pdf?rlkey=brixpqlldadhrpwfnaj76vwtr&dl=0)
 
 ### Research Methods (Undergraduate)
 #### **Spring 2026** | [Syllabus](https://www.dropbox.com/scl/fi/09wg02zkgwx80idsrmz78/Syllabus-Spring-2026.pdf?rlkey=aitwos8w6rpwvki1bs1gi4ol3&st=jlf9ys5q&dl=0)  

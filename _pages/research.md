@@ -20,15 +20,13 @@ The book traces the shift in US foreign policy from absolute to restrictive sove
 Democracy, Debt, and the Bench: Political Ideology in Sovereign Immunity Cases - Forthcoming at *International Organization*
 
 
-## Under Review 
+When Firms Lead States: Financial Intermediaries and the Politics of Sovereign Green Bond Issuance - Conditionally Accepted at *International Organization*
 
-
-Information Clearinghouse: Market Implications of US Judicial Decisions
-
-When Firms Lead States: Financial Intermediaries and the Politics of Sovereign Green Bond Issuance - *Revise & Resubmit*
 
 
 ## Working Papers
+
+Information Clearinghouse: Market Implications of US Judicial Decisions
 
 Default Dynamics: The Influence of Regime Type on Default Choice
 

@@ -10,8 +10,8 @@ author_profile: true
 
 
 ### Middle East Politics (Undergraduate)
-#### **Fall 2026** |
-#### **Fall 2025** | [Evaluations](https://www.dropbox.com/scl/fi/1g24uokodh0sgl6u2nmjh/MiddleEast_Fall2026.pdf?rlkey=x67ee977f7d6stdxu6ex002tl&st=uqh1frsm&dl=0) | [Syllabus](https://www.dropbox.com/scl/fi/2mz1wnulfswn0ozzidydg/Fall2025.pdf?rlkey=7o4balqrbakgh9jq3qc4gm1bs&dl=0) 
+#### **Fall 2026** |[Syllabus](https://www.dropbox.com/scl/fi/hsrc0pdnaj6k5f0km2hp4/Middle_East_Politics_Fall_2026.pdf?rlkey=x93i7zfndlp49lsr5f446ureg&st=lsn1byai&dl=0) 
+#### **Fall 2025** | [Evaluations](https://www.dropbox.com/scl/fi/1g24uokodh0sgl6u2nmjh/MiddleEast_Fall2026.pdf?rlkey=x67ee977f7d6stdxu6ex002tl&st=uqh1frsm&dl=0) 
 
 ### Political Economy (Undergraduate)
 #### **Spring 2026** | [Evaluations](https://www.dropbox.com/scl/fi/mcp4idat03z5ls20l9lxs/Political-Economy-Spring-2026.pdf?rlkey=6kl3vzf9oq9suxe6fcjakf4yh&st=qqdx9tie&dl=0) | [Syllabus](https://www.dropbox.com/scl/fi/4kva67lgu6rounlxgilsu/Political_Economy_Syllabus.pdf?rlkey=brixpqlldadhrpwfnaj76vwtr&dl=0)

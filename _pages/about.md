@@ -12,9 +12,9 @@ Welcome! I am an Assistant Professor at Seton Hall University with a joint appoi
 
 Substantively, my research examines how commercial actors---such as investors, financial intermediaries, and firms---operate within and shape political and legal institutions, and how these interactions generate unintended economic and political consequences. I am particularly interested in how private market actors leverage courts, contracts, and regulatory frameworks to advance commercial claims, and how states respond to these pressures through borrowing, default, and institutional design.
 
-Currently, I am working on my book project, an extension of my dissertation titled *Domesticating the International: The Uneven Enforcement of Investors' Preferences and its Unintended Consequences*. It examines when US courts choose to extend the reach of US private property rights via the application of the Foreign Sovereign Immunities Act and the economic consequences, if any, for the debtor state. 
+Currently, I am completing my book, *Domesticating the International: The Uneven Enforcement of Investors' Preferences and Its Unintended Consequences*. It argues that US federal courts---the Southern District of New York above all---became the *de facto* regulators of international sovereign debt markets, an outcome no one designed, and traces that enforcement regime from its origins in the Foreign Sovereign Immunities Act through its operation in the courtroom to its recent unraveling. [Read more about the book &rarr;](/book/) 
 
-Beyond my work on sovereign debt, I also study financial issues in the Middle East. In a separate line of research, I am developing papers on green finance that examine how, why, and when governments, non-governmental organizations, and global institutions finance climate change mitigation efforts.
+Beyond my work on sovereign debt, I also study financial issues in the Middle East, including the political economy of Islamic finance. In a separate line of research, I develop work on green finance that examines how, why, and when governments, non-governmental organizations, and global institutions finance climate change mitigation efforts.
 
 You may contact me at: monica.widmann@shu.edu
 

@@ -9,11 +9,7 @@ My research broadly examines (1) how transnational commercial actors utilize nat
  
 ## Book Project
 
-What actions can creditors take against a sovereign country that fails to repay its debts? Can legislation passed in one country to regulate international transactions have economic consequences in other countries? This book project attempts to answer these questions by examining the development and usage of the Foreign Sovereign Immunities Act (FSIA) and the role of US courts in sovereign debt markets.
-
-Previous research has focused on the role of reputation in influencing the decision of a country to repay their debt and the perception of investors. I argue, however, that US courts are a critical tool in managing sovereign debt markets and in influencing investors' decisions to invest. To examine this, I collected and utilized three original datasets covering sovereign litigation from 1811 to the present.
-
-The book traces the shift in US foreign policy from absolute to restrictive sovereignty, examining why US courts gained authority from the State Department to adjudicate disputes involving sovereign states. In the pre-FSIA period, I find that the absence of State Department involvement increased the likelihood of judges granting sovereign immunity, particularly in cases involving democracies. Turning to the FSIA period, I find that Republican-nominated and Democrat-nominated judges in the Southern District of New York apply the statute differently, with Republican-nominated judges more likely to rule against democratic defendant states. Finally, I examine the economic consequences of court judgments against debtor nations. I argue that a ruling in favor of the plaintiff increases investor confidence in a country that has defaulted, generating positive unintended consequences for the debtor state. Specifically, I find that creditor wins reduce borrowing costs, increase intermediate goods imports, and stimulate economic growth---demonstrating that US judicial decisions can have significant spillover effects on the broader economy of the debtor nation.
+My book manuscript, ***Domesticating the International***, argues that US federal courts---the Southern District of New York above all---became the *de facto* regulators of international sovereign debt markets, an outcome no one designed. It traces this enforcement regime from its origins in the Tate Letter and the Foreign Sovereign Immunities Act, through its operation in the courtroom, to its recent unraveling, drawing on three original datasets spanning sovereign litigation from 1811 to 2022. [Read more about the book &rarr;](/book/)
 
 ## Publications
 
@@ -33,6 +29,8 @@ Default Dynamics: The Influence of Regime Type on Default Choice
 Borrowed Credibility: Fiscal Stress, Democracy, and Signaling in Sovereign Green Bond Markets
 
 ## In Progress
+
+Banking on Belief: Regime Legitimation and the Uneven Rise of Islamic Finance
 
 Politics of the Green Label: Partisan Polarization and Municipal Climate Finance
 

@@ -5,8 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
-My research broadly examines (1) how transnational commercial actors utilize national courts to hold sovereign states accountable for breaking commercial agreements, as well as the domestic consequences of these judicial rulings, and (2) the domestic politics underlying states' strategic choices of borrowing and default.
- 
+My research broadly examines (1) how courts, contracts, and private financial actors shape the terms on which sovereign states borrow, default, and return to markets, and (2) how governments use debt and financial instruments to manage domestic political constraints, distributional pressures, credibility, and political legitimacy.
+
 ## Book Project
 
 My book manuscript, ***Domesticating the International***, argues that US federal courts---the Southern District of New York above all---became the *de facto* regulators of international sovereign debt markets, an outcome no one designed. It traces this enforcement regime from its origins in the Tate Letter and the Foreign Sovereign Immunities Act, through its operation in the courtroom, to its recent unraveling, drawing on three original datasets spanning sovereign litigation from 1811 to 2022. [Read more about the book &rarr;](/book/)

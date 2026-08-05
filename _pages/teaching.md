@@ -17,7 +17,7 @@ author_profile: true
 #### **Spring 2026** | [Evaluations](https://www.dropbox.com/scl/fi/mcp4idat03z5ls20l9lxs/Political-Economy-Spring-2026.pdf?rlkey=6kl3vzf9oq9suxe6fcjakf4yh&st=qqdx9tie&dl=0) | [Syllabus](https://www.dropbox.com/scl/fi/4kva67lgu6rounlxgilsu/Political_Economy_Syllabus.pdf?rlkey=brixpqlldadhrpwfnaj76vwtr&dl=0)
 
 ### Research Methods (Undergraduate)
-#### **Spring 2026** | [Syllabus](https://www.dropbox.com/scl/fi/09wg02zkgwx80idsrmz78/Syllabus-Spring-2026.pdf?rlkey=aitwos8w6rpwvki1bs1gi4ol3&st=jlf9ys5q&dl=0)  
+#### **Spring 2026** | [Syllabus](https://www.dropbox.com/scl/fi/09wg02zkgwx80idsrmz78/Syllabus-Spring-2026.pdf?rlkey=aitwos8w6rpwvki1bs1gi4ol3&st=jlf9ys5q&dl=0) | [Evaluations](https://www.dropbox.com/scl/fi/00crztbesdsjay6jc684k/Research-Methods-BB.pdf?rlkey=b0yreyz4xxyfpuv6es6qj4xrz&dl=0)
 #### **Fall 2025**  | [Evaluations](https://www.dropbox.com/scl/fi/efxjaa2uifusrfyi82cz2/ResearchMethods_Fall2025.pdf?rlkey=w5ns6p4u7w7n45lui0dpicdx6&dl=0)
 
 ### Comparative Politics (Undergraduate)

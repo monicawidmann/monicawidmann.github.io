@@ -13,7 +13,7 @@ My book manuscript, ***Domesticating the International***, argues that US federa
 
 ## Publications
 
-["Democracy, Debt, and the Bench: Political Ideology in Sovereign Immunity Cases."](https://doi.org/10.1017/S0020818326101398) 2026. *International Organization,* 80(3): 569–601.
+["Democracy, Debt, and the Bench: Political Ideology in Sovereign Immunity Cases."](https://doi.org/10.1017/S0020818326101398) 2026. *International Organization,* 2026. 80(3):569-601.
 
 "When Firms Lead States: Financial Intermediaries and the Politics of Sovereign Green Bond Issuance." Accepted at *International Organization*.
 

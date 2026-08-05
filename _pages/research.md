@@ -13,30 +13,28 @@ My book manuscript, ***Domesticating the International***, argues that US federa
 
 ## Publications
 
-Democracy, Debt, and the Bench: Political Ideology in Sovereign Immunity Cases - Forthcoming at *International Organization*
+["Democracy, Debt, and the Bench: Political Ideology in Sovereign Immunity Cases."](https://doi.org/10.1017/S0020818326101398) 2026. *International Organization* 80(3): 569–601.
 
-
-When Firms Lead States: Financial Intermediaries and the Politics of Sovereign Green Bond Issuance - Conditionally Accepted at *International Organization*
-
+"When Firms Lead States: Financial Intermediaries and the Politics of Sovereign Green Bond Issuance." Accepted at *International Organization*.
 
 
 ## Working Papers
 
-Information Clearinghouse: Market Implications of US Judicial Decisions
+"Information Clearinghouse: Market Implications of US Judicial Decisions"
 
-Default Dynamics: The Influence of Regime Type on Default Choice
+"Default Dynamics: The Influence of Regime Type on Default Choice"
 
-Borrowed Credibility: Fiscal Stress, Democracy, and Signaling in Sovereign Green Bond Markets
+"Borrowed Credibility: Fiscal Stress, Democracy, and Signaling in Sovereign Green Bond Markets"
 
 ## In Progress
 
-Banking on Belief: Regime Legitimation and the Uneven Rise of Islamic Finance
+"Banking on Belief: Regime Legitimation and the Uneven Rise of Islamic Finance"
 
-Politics of the Green Label: Partisan Polarization and Municipal Climate Finance
+"Politics of the Green Label: Partisan Polarization and Municipal Climate Finance"
 
-Negotiating Sovereign Debt: The Choice for Incomplete Contracts
+"Negotiating Sovereign Debt: The Choice for Incomplete Contracts"
 
-Civil Unrest and Financial Crises: Distributive Politics in Lebanon
+"Civil Unrest and Financial Crises: Distributive Politics in Lebanon"
 
 
 

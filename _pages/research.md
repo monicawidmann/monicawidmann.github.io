@@ -26,6 +26,8 @@ My book manuscript, ***Domesticating the International***, argues that US federa
 
 "Borrowed Credibility: Fiscal Stress, Democracy, and Signaling in Sovereign Green Bond Markets"
 
+"Labels Without Leverage: How Development Banks Grew Green Debt Without Changing What They Lend"
+
 ## In Progress
 
 "Banking on Belief: Regime Legitimation and the Uneven Rise of Islamic Finance"
